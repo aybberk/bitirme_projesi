@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1489166932 source:/home/pi/Desktop/proje/main.cpp
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<iostream>
+	<wiringPi.h>
+	<softPwm.h>
+	"aybFonksiyonlar.h"
+	"aybClasslar.h"
+	<chrono>
+	<thread>
+	<ctime>
+	<time.h>
+
+1488890732 /home/pi/Desktop/proje/aybFonksiyonlar.h
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<iostream>
+	"aybClasslar.h"
+	<math.h>
+
+1489166662 /home/pi/Desktop/proje/aybClasslar.h
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<iostream>
+	<thread>
+	<wiringPi.h>
+	<softPwm.h>
+
+1489847195 source:/home/pi/Desktop/proje_v2/main.cpp
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<iostream>
+	<wiringPi.h>
+	<softPwm.h>
+	"aybFonksiyonlar.h"
+	"aybClasslar.h"
+	<chrono>
+	<ctime>
+	<time.h>
+
+1489837098 /home/pi/Desktop/proje_v2/aybFonksiyonlar.h
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<iostream>
+	"aybClasslar.h"
+	<math.h>
+
+1489833838 /home/pi/Desktop/proje_v2/aybClasslar.h
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<iostream>
+	<thread>
+	<wiringPi.h>
+	<softPwm.h>
+
