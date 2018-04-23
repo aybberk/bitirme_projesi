@@ -1,4 +1,4 @@
-# bitirme_projesi
+# odtü ee bitirme projesi
 ee493-494
 
 kanaldan odun çeken tatlış robotumuzun c++ kodu.
